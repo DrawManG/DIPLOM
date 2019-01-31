@@ -1,0 +1,51 @@
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\bin\Debug\PDP.exe.config
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.csprojResolveAssemblyReference.cache
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.Form1.resources
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.Properties.Resources.resources
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.csproj.GenerateResource.Cache
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\bin\Debug\PDP.exe
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\bin\Debug\PDP.pdb
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.exe
+c:\users\greatrepit\documents\visual studio 2015\Projects\PDP\PDP\obj\Debug\PDP.pdb
+L:\PDP\PDP\bin\Debug\PDP.exe.config
+L:\PDP\PDP\obj\Debug\PDP.exe
+L:\PDP\PDP\obj\Debug\PDP.pdb
+L:\PDP\PDP\bin\Debug\PDP.exe
+L:\PDP\PDP\bin\Debug\PDP.pdb
+L:\PDP\PDP\obj\Debug\PDP.csprojResolveAssemblyReference.cache
+L:\PDP\PDP\obj\Debug\PDP.Form1.resources
+L:\PDP\PDP\obj\Debug\PDP.Properties.Resources.resources
+L:\PDP\PDP\obj\Debug\PDP.csproj.GenerateResource.Cache
+L:\PDP\PDP\obj\Debug\PDP.Registration.resources
+L:\PDP\PDP\bin\Debug\PDP.exe.CodeAnalysisLog.xml
+L:\PDP\PDP\bin\Debug\PDP.exe.lastcodeanalysissucceeded
+L:\PDP\PDP\obj\Debug\PDP.RealRegistr.resources
+J:\PDP\PDP\bin\Debug\PDP.exe.config
+J:\PDP\PDP\obj\Debug\PDP.exe
+J:\PDP\PDP\obj\Debug\PDP.pdb
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Debug\PDP.exe.config
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.exe
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.pdb
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Debug\PDP.exe
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Debug\PDP.pdb
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Debug\PDP.exe.CodeAnalysisLog.xml
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Debug\PDP.exe.lastcodeanalysissucceeded
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.csprojResolveAssemblyReference.cache
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.Form1.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.Properties.Resources.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.RealRegistr.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.Registration.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Debug\PDP.csproj.GenerateResource.Cache
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\bin\Debug\PDP.exe.config
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.exe
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.pdb
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\bin\Debug\PDP.exe
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\bin\Debug\PDP.pdb
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\bin\Debug\PDP.exe.CodeAnalysisLog.xml
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\bin\Debug\PDP.exe.lastcodeanalysissucceeded
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.csprojResolveAssemblyReference.cache
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.Form1.resources
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.Properties.Resources.resources
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.RealRegistr.resources
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.Registration.resources
+C:\Users\Вечность\Desktop\S\Смирнов Д.А.И-2-14 DOCUMENTO\Текст программы\PDP\obj\Debug\PDP.csproj.GenerateResource.Cache

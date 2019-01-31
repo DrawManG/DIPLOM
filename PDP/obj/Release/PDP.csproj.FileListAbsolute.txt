@@ -1,0 +1,10 @@
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Release\PDP.exe.config
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Release\PDP.exe
+C:\Users\Вечность\Desktop\New folder (6)\PDP\bin\Release\PDP.pdb
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.Form1.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.Properties.Resources.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.RealRegistr.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.Registration.resources
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.csproj.GenerateResource.Cache
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.exe
+C:\Users\Вечность\Desktop\New folder (6)\PDP\obj\Release\PDP.pdb
